@@ -15,19 +15,19 @@ Goals - 2014Q2
 ---
 
 * Education
-    * Ruby on Rails (12 week course, 1day/week)
+    * [Ruby on Rails](https://github.com/qcmerge/training/issues?milestone=1&state=open) (12 week course, 1day/week)
     * Provide scholarship to Revvd (other courses?)
 * Community
-    * Website (blog, community video and survey)
+    * [Website](https://github.com/qcmerge/qcmerge.github.io) (blog, community video and survey)
     * Begin outreach (press, SMB orgs, universities, city/county govs)
 * Events
-    * Continue Drinkups
+    * [Continue Drinkups](https://github.com/qcmerge/drinkup)
     * Host Open House (dependent upon procuring space)
-    * Begin planning for 2014 conference
+    * [Begin planning for 2014 conference](https://github.com/qcmerge/2014)
 * Administration
-    * Select board
-    * Create budget
-    * Host first quarterly board meeting
+    * [Select board](https://github.com/qcmerge/administration/issues/1)
+    * [Create budget](https://github.com/qcmerge/administration/issues/2)
+    * [Host first quarterly board meeting](https://github.com/qcmerge/administration/issues/3)
 * Space
     * Secure temporary space
     * Begin search for permanent space
