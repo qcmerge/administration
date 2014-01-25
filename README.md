@@ -19,7 +19,7 @@ Goals - 2014Q2
     * Provide scholarship to Revvd (other courses?)
 * Community
     * [Website](https://github.com/qcmerge/qcmerge.github.io) (blog, community video and survey)
-    * Begin outreach (press, SMB orgs, universities, city/county govs)
+    * [Begin outreach](https://github.com/qcmerge/community/issues/1) (press, SMB orgs, universities, city/county govs)
 * Events
     * [Continue Drinkups](https://github.com/qcmerge/drinkup)
     * Host Open House (dependent upon procuring space)
