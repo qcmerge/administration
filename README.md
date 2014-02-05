@@ -16,7 +16,7 @@ Goals - 2014Q2
 
 * Education
     * [Ruby on Rails](https://github.com/qcmerge/training/issues?milestone=1&state=open) (12 week course, 1day/week)
-    * Provide scholarship to Revvd (other courses?)
+    * [Provide scholarships](https://github.com/qcmerge/community/issues/3)
 * Community
     * [Website](https://github.com/qcmerge/qcmerge.github.io) (blog, community video and survey)
     * [Begin outreach](https://github.com/qcmerge/community/issues/1) (press, SMB orgs, universities, city/county govs)
