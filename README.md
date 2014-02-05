@@ -22,12 +22,12 @@ Goals - 2014Q2
     * [Begin outreach](https://github.com/qcmerge/community/issues/1) (press, SMB orgs, universities, city/county govs)
 * Events
     * [Continue Drinkups](https://github.com/qcmerge/drinkup)
-    * Host Open House (dependent upon procuring space)
+    * [Host Open House](https://github.com/qcmerge/events/issues/1)
     * [Begin planning for 2014 conference](https://github.com/qcmerge/2014)
 * Administration
     * [Select board](https://github.com/qcmerge/administration/issues/1)
     * [Create budget](https://github.com/qcmerge/administration/issues/2)
     * [Host first quarterly board meeting](https://github.com/qcmerge/administration/issues/3)
 * Space
-    * Secure temporary space
-    * Begin search for permanent space
+    * [Secure temporary space](https://github.com/qcmerge/space/issues/1)
+    * [Begin search for permanent space](https://github.com/qcmerge/space/issues/2)
