@@ -14,6 +14,8 @@ The mind map below represents a goal to strive toward. Initial goals (for 2014Q2
 Goals - 2014Q2
 ---
 
+Feel like pitching in? Explore the links below and help us achieve our goals.
+
 * Education
     * [Ruby on Rails](https://github.com/qcmerge/training/issues?milestone=1&state=open) (12 week course, 1day/week)
     * [Provide scholarships](https://github.com/qcmerge/community/issues/3)
