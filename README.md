@@ -18,6 +18,7 @@ Feel like pitching in? Explore the links below and help us achieve our goals.
 
 * Education
     * [Ruby on Rails](https://github.com/qcmerge/training/issues?milestone=1&state=open) (12 week course, 1day/week)
+    * [Web Designer](https://github.com/qcmerge/training/issues/9)
     * [Provide scholarships](https://github.com/qcmerge/community/issues/3)
 * Community
     * [Website](https://github.com/qcmerge/qcmerge.github.io) (blog, community video and survey)
