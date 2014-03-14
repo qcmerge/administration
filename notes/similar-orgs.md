@@ -1,0 +1,16 @@
+Similar Organizations
+===
+
+QCMerge isn't entirely novel. Here's a list of similar organizations around the US.
+
+* [1871](http://www.1871.com/): Chicago IL - "1871 is Chicago’s entrepreneurial hub for digital startups. Located in the famed Merchandise Mart, the 50,000-square-foot facility provides Chicago startups with programming, access to mentors, educational resources, potential investors and a community of like-minded entrepreneurs that help them on their path to building successful businesses."
+* [The American Underground](http://www.americanunderground.com/): Durham NC - "Welcome to The Underground. Here you will meet some of the most influential and instrumental startups, incubators and thought leaders in the Southeast. Access to The Underground gives high-growth companies the flexible office space and connections necessary to reach their potential. Network, learn, work and grow in the heart of a thriving entrepreneurial ecosystem."
+* [CoCo](http://cocomsp.com/): Minneapolis-St.Paul MN - "CoCo is a place where independent workers, small businesses and corporate workgroups can gather to share ideas, team up on projects and get some work done. We’re a business center that gives you an alternative to working from home or meeting at the local coffee shop."
+* [Galvanize](http://galvanize.it/): Boulder/Denver CO - "Galvanize creates an “innovation ecosystem” designed to give entrepreneurs and innovators the best chance of success at the start of their next (or first) big thing. Through the three pillars of Capital, Community, and Curriculum, Galvanize builds a community greater than the sum of its parts to spark disruptive ideas and breakout companies."
+* [Grand Circus](http://www.grandcircus.co/): Detroit MI - "We are a training institute in the heart of downtown Detroit on a mission to elevate the tech community. Whether it's customized training, coworking or events, Grand Circus offers it all under the same tent."
+* [The Iron Yard](http://theironyard.com/): Greenville SC (et al) - "The Iron Yard exists to create exceptional value for people and their ideas through code education, startup accelerators and coworking spaces."
+* [The Nashville Entrepreneurship Center](http://www.ec.co/) Nashville TN - "The EC connects Entrepreneurs with Investors, Mentors and the Critical Resources they need to accelerate the launch of startup businesses. The EC fosters innovation and entrepreneurship by Turning Ideas Into Reality, helping to start businesses and create jobs. As a non-profit 501(c)3 organization, the Center is funded through sponsorships, partnerships, donations and grants. The EC relies on support from leading corporations, successful entrepreneurs and those who have a vested interest in the Center’s success."
+
+Marketing & Promotional
+---
+* [Digital DC](http://digitaldc.co/): Washington DC - "Digital DC is a marketing and branding campaign and economic development initiative to promote Washington, DC as the leading community in the innovation and high-tech economy."
