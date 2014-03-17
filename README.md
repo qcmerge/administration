@@ -3,6 +3,11 @@ Administration
 
 This is where we talk about and you can find out about how things are run.
 
+NEWS!
+---
+
+[Here](https://github.com/qcmerge/administration/blob/master/updates/latest.md) is the latest news about what's going on.
+
 Mind Map
 ---
 
