@@ -16,7 +16,7 @@ Community:
 Education:
 ---
 * Began working with [AIGA Cincinnati](https://cincinnati.aiga.org/) to plan an
-"Intro to Web Development for Graphic/Print Designers" course to be co-hosted
+"[Intro to Web Development for Graphic/Print Designers](https://github.com/qcmerge/training/issues/9)" course to be co-hosted
 by QCMerge and AIGA Cincy. The course is slated for late May or early June
 2014.
 
