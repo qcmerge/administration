@@ -1,7 +1,7 @@
 Administration
 ==============
 
-This is where we talk about and you can find out about how things are run.
+This is where we talk about and you can find out about how things are run. You can **GET INVOLVED** by [creating a GitHub account](https://github.com/join) and commenting on any of the issues linked in the goals below or create an issue yourself.
 
 NEWS!
 ---
